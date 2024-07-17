@@ -9,6 +9,7 @@ __pycache__/
 # credentials
 yeoya/yeoya/credentials.py
 need.py
+trash/
 
 # Distribution / packaging
 .Python
